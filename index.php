@@ -1,4 +1,6 @@
-<!DOCTYPE html> <!--'Alt+ Insert'-->
+<!--'Alt+ Insert'-->
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +9,8 @@
 
     <!--CTRL + “/” (numpad-i kohal) lisab kommentaari-->
 
-    <h4>Selle teksti surroundime html tagidega kasutaded .CTRL + ALT + T ja T <!-- kasutame h4--></h4>
+    <h4>Selle teksti surroundime html tagidega kasutades CTRL + ALT + T ja T <!-- kasutame h4--></h4>
+
 
 
 </head>
